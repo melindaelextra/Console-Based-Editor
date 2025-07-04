@@ -153,3 +153,7 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 ## License
 
 This project is developed for educational purposes as part of the CSC1002-Computational Laboratory course.
+
+## Contact
+
+For any questions or feedback, please open an issue in the GitHub repository.
